@@ -1,5 +1,5 @@
 from django.shortcuts import render
 
 # Create your views here
-def macha(request):
-    return render(request,'macha.html')
+def pspk(request):
+    return render(request,'pspk.html')
